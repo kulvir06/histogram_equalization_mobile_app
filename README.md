@@ -12,7 +12,7 @@ This allows for areas of lower local contrast to gain a higher contrast.
 Histogram equalization accomplishes this by effectively spreading out the highly populated intensity values which use to degrade image contrast.
 
 <img align="left" alt="Histogram"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Histogrammeinebnung.png/450px-Histogrammeinebnung.png" />
-<br/>
+<br/> <br/>
 
 ## Implementation of Histogram Equaliztion
 
