@@ -11,14 +11,14 @@ Through this adjustment, the intensities can be better distributed on the histog
 This allows for areas of lower local contrast to gain a higher contrast. 
 Histogram equalization accomplishes this by effectively spreading out the highly populated intensity values which use to degrade image contrast.
 
-<img align="left" alt="nodejs" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Histogrammeinebnung.png/450px-Histogrammeinebnung.png" />
+<img align="left" alt="Histogram"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Histogrammeinebnung.png/450px-Histogrammeinebnung.png" />
 
 ## Implementation of Histogram Equaliztion
 
 Consider a discrete grayscale image {x} and let ni be the number of occurrences of gray level i. 
 The probability of an occurrence of a pixel of level i in the image is
 
-<img align="left" alt="nodejs" width="20px" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2085ca8d9ae45213103bff0b9c786ca717e55bba" />
+<img align="left" alt="nodejs" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2085ca8d9ae45213103bff0b9c786ca717e55bba" />
 
 ## Getting Started
 
