@@ -13,6 +13,7 @@ Histogram equalization accomplishes this by effectively spreading out the highly
 
 <img align="left" alt="Histogram"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Histogrammeinebnung.png/450px-Histogrammeinebnung.png" />
 <br/>
+
 ## Implementation of Histogram Equaliztion
 
 Consider a discrete grayscale image {x} and let ni be the number of occurrences of gray level i. 
